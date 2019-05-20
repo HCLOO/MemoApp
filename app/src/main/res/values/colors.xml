@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d2c32</color>
+    <color name="colorPrimaryDark">#2d2c32</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="toolbarColor">#EFEFEF</color>
+    <color name="lineColor">#333333</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="cursorColor">#6D806E</color>
+    <color name="textColor">#9A9A9A</color>
+    <color name="rvTitleColor">#333333</color>
+    <color name="rvDateColor">#444444</color>
+    <color name="barColor">#2d2c32</color>
+    <color name="deleteColor">#ff3a30</color>
+    <color name="markColor">#33cc66</color>
+    <color name="noMarkColor">#c7c7cc</color>
+</resources>

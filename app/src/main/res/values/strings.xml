@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="tv_submit">提交</string>
+    <string name="tv_mark_done">标记解决</string>
+    <string name="tv_mark_no">释放标记</string>
+    <string name="tv_show">查看</string>
+    <string name="tv_delete">删除</string>
+    <string name="tv_toolbar_title">Memo</string>
+    <string name="tv_task">任务</string>
+    <string name="tv_notification_title">Memo提醒通知来了</string>
+    <string name="tv_notification_content">你还有%d个任务未完成哦</string>
+</resources>
